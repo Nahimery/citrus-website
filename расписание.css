@@ -1,0 +1,14 @@
+#raspisanie {
+    width: 100%;
+    height: 90px;
+    background-color: #4452d4fd;
+    border-bottom: 5px solid rgb(20, 21, 128);
+    color: white;
+    text-align: center;
+    word-spacing: 6px; 
+    margin-top: 0px;
+}
+#apple{
+ margin-left: 1050px;
+ margin-right: 250px;
+}
